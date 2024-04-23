@@ -1,0 +1,15 @@
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/getting_started.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/getting_started.AssemblyInfoInputs.cache
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/getting_started.AssemblyInfo.cs
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/getting_started.csproj.CoreCompileInputs.cache
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/getting_started.sourcelink.json
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/bin/Debug/net8.0/getting_started
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/bin/Debug/net8.0/getting_started.deps.json
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/bin/Debug/net8.0/getting_started.runtimeconfig.json
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/bin/Debug/net8.0/getting_started.dll
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/bin/Debug/net8.0/getting_started.pdb
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/getting_started.dll
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/refint/getting_started.dll
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/getting_started.pdb
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/getting_started.genruntimeconfig.cache
+/Users/fahimrashid/Desktop/C#/getting_started/getting_started/obj/Debug/net8.0/ref/getting_started.dll

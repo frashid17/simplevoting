@@ -1,0 +1,1 @@
+this is just a simple voting console that i created to as to practice on C#
